@@ -21,6 +21,8 @@ Tali pool si possono svuotare in base al tipo di evento nel quale il personaggio
 - se viene colpito da un'arma allora il suo fisico ne risentira', svuotando parzialmente la pool di Forza o quella di Destrezza, in base al tipo di danno
 - se passa ore ed ore a leggere la sua attenzione caleraa', svuotando parzialmente la pool di Intelletto
 
+Un personaggio puo' **recuperare** 1d6 di punti ogni volta che fa un riposo lungo, ad esempio dormendo la notte o riposando da sveglio in un letto d'ospedale per almeno otto ore.
+
 ### Edge
 Associato a ogni caratteristica, un personaggio ha anche associato un valore di **edge** che viene detratto da un eventuale costo speso per una caratteristica.
 

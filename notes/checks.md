@@ -22,18 +22,8 @@ livello | target roll | descrizione check
 10 | 30 | gesto che normali umani non possono nemmeno tenere in considerazione|
 
 ### Effort
-Un check puo' essere semplificando applicando uno o piu' livelli di **effort** spendendo 3 punti nel pool della caratteristica interessata per il primo livello di effort utilizzato e 2 per i livelli successivi, diminuendo il livello di una sfida di 1 oppure aumentando il danno inflitto.
+Un check puo' essere semplificando applicando uno o piu' livelli di **effort**, fino a un massimo di 6 livelli di effort per singola prova, spendendo 3 punti nel pool della caratteristica interessata per il primo livello di effort utilizzato e 2 per i livelli successivi, diminuendo il livello di una sfida di 1 oppure aumentando il danno inflitto.
 
 Essendo un'azione che richiede di spendere punti da un pool, l'edge della caratteristica viene sottratto dal costo totale dell'effort applicato a un singolo check.
 
 Se il check puo' essere ritentato, puo' essere effettuato un nuovo tiro applicando almeno un livello di effort e, se fallito, le conseguenze potrebbero essere considerevoli.
-
-### Effetti speciali
-Alcuni numeri speciali usciti sul d20 danno luogo a degli eventi speciali:
-
-|numero uscito sul d20 | effetto |
-|---|---|
-| 1 | effetto maggiore negativo: perdi il turno, resti disarmato etc. |
-| 2, 3 | effetto minore negativo: vieni spostato, azioni piu' difficili al prossimo round etc. |
-| 18, 19 | effetto minore positivo: colpisci una zona vitale, distrai il nemico etc. |
-| 20 | effetto maggiore positivo: il nemico perde il prossimo turno, resta disarmato etc. |
