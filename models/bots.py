@@ -61,11 +61,11 @@ class CypherAssistantBot:
 
         @dispatcher.message_handler(commands=['infos'])
         async def infos(message: types.Message):
-            await message.answer(text=f"@{message.from_user.username}, scegli cosa tirare 🎲",
+            await message.answer(text=f"Cosa vuoi consultare?",
                                  reply_markup=InlineKeyboardMarkup(inline_keyboard=[
-                                     [InlineKeyboardButton(text="Trama", url="https://github.com/rom42pla/cypher_telegram_bot/blob/main/notes/campaign.md")],
-                                     [InlineKeyboardButton(text="Personaggi", url="https://github.com/rom42pla/cypher_telegram_bot/blob/main/notes/characters.md")],
-                                     [InlineKeyboardButton(text="Tiri", url="https://github.com/rom42pla/cypher_telegram_bot/blob/main/notes/checks.md")],
-                                     [InlineKeyboardButton(text="Combattimento", url="https://github.com/rom42pla/cypher_telegram_bot/blob/main/notes/combat.md")]
+                                     [InlineKeyboardButton(text="Trama 📚", url="https://github.com/rom42pla/cypher_telegram_bot/blob/main/notes/campaign.md")],
+                                     [InlineKeyboardButton(text="Personaggi 👪", url="https://github.com/rom42pla/cypher_telegram_bot/blob/main/notes/characters.md")],
+                                     [InlineKeyboardButton(text="Tiri 🎲", url="https://github.com/rom42pla/cypher_telegram_bot/blob/main/notes/checks.md")],
+                                     [InlineKeyboardButton(text="Combattimento 👊", url="https://github.com/rom42pla/cypher_telegram_bot/blob/main/notes/combat.md")]
                                  ], one_time_keyboard=True))
 
