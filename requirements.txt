@@ -1,3 +1,4 @@
 numpy==1.20
 
+pymongo==3.11.2
 aiogram==2.11.2
