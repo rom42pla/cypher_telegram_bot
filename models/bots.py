@@ -7,7 +7,7 @@ import aiogram
 import numpy as np
 
 from aiogram import Bot, Dispatcher, executor, types
-from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
+from aiogram.types import ReplyKeyboardMarkup, KeyboardButton, InlineKeyboardMarkup, InlineKeyboardButton
 
 
 class CypherAssistantBot:
@@ -58,3 +58,14 @@ class CypherAssistantBot:
                                     f"Prova tipo <code>/roll d20</code> "
                                     f"o <code>/roll 2d20 + 3</code>",
                                     parse_mode="html")
+
+        @dispatcher.message_handler(commands=['infos'])
+        async def infos(message: types.Message):
+            await message.answer(text=f"@{message.from_user.username}, scegli cosa tirare 🎲",
+                                 reply_markup=InlineKeyboardMarkup(inline_keyboard=[
+                                     [InlineKeyboardButton(text="Trama", url="https://github.com/rom42pla/cypher_telegram_bot/blob/main/notes/campaign.md")],
+                                     [InlineKeyboardButton(text="Personaggi", url="https://github.com/rom42pla/cypher_telegram_bot/blob/main/notes/characters.md")],
+                                     [InlineKeyboardButton(text="Tiri", url="https://github.com/rom42pla/cypher_telegram_bot/blob/main/notes/checks.md")],
+                                     [InlineKeyboardButton(text="Combattimento", url="https://github.com/rom42pla/cypher_telegram_bot/blob/main/notes/combat.md")]
+                                 ], one_time_keyboard=True))
+
