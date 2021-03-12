@@ -1,9 +1,13 @@
 import logging
 import re
+from os import listdir
+from os.path import join
+
+import aiogram
 import numpy as np
 
 from aiogram import Bot, Dispatcher, executor, types
-from pymongo import MongoClient
+from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 
 
 class CypherAssistantBot:
@@ -12,7 +16,7 @@ class CypherAssistantBot:
         assert isinstance(token, str)
         self._bot = Bot(token=token)
         self._dp = Dispatcher(self._bot)
-        # self.db = MongoClient().users
+        self.users_states = {}
 
         self.add_handlers(dispatcher=self._dp)
 
@@ -23,6 +27,12 @@ class CypherAssistantBot:
         @dispatcher.message_handler(commands=['roll'])
         async def roll(message: types.Message):
             text = " ".join(message.text.split()[1:]).strip()
+            if not text:
+                await message.answer(text=f"@{message.from_user.username}, scegli cosa tirare 🎲",
+                                     reply_markup=ReplyKeyboardMarkup([
+                                         [KeyboardButton(text=f"/roll d20")]
+                                     ], one_time_keyboard=True))
+                return
             parsed_text = text
             raw_rolls = re.findall(pattern="[0-9]*d[0-9]+", string=text, flags=re.IGNORECASE)
             averages, scores = [], []
@@ -48,10 +58,3 @@ class CypherAssistantBot:
                                     f"Prova tipo <code>/roll d20</code> "
                                     f"o <code>/roll 2d20 + 3</code>",
                                     parse_mode="html")
-
-        # @dispatcher.message_handler(commands=['my_characters'])
-        # async def my_characters(message: types.Message):
-        #     text = " ".join(message.text.split()[1:]).strip()
-        #     print(text)
-        #     for c in self.db.characters.find():
-        #         print(c)
