@@ -46,8 +46,8 @@ Per semplicita', la distanza e' suddivisa in quattro categorie:
 |---|---|---|
 | distanza immediata | da 0 a 3 metri | combattimento corpo a corpo o all'arma bianca |
 | distanza breve | da 3 a 15 metri | oggetti da lancio e normali pistole |
-| distanza lunga | da 15 a 30 metri | fucili | 
-| distanza molto lunga | da 30 a 100 metri | fucili da cecchino |
+| distanza lunga | da 15 a 30 metri | archi, fucili | 
+| distanza molto lunga | da 30 a 100 metri | grosse balestre, fucili da cecchino |
 
 Un personaggio puo' muoversi di una distanza immediata come parte di un'altra azione, di una distanza breve come azione a se' o di una distanza lunga come azione a se' previo check.
 
