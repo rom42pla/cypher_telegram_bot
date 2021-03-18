@@ -31,7 +31,7 @@
 
 - scegli l'equipaggiamento da combattimento iniziale fra i seguenti:
     - tre [magie](magic.md) a piacimento e un focus a scelta
-    - una [magia](magic.md) a piacimento, un focus a scelta e un'armatura leggera
-    - un'arma leggera da mischia, una leggera da distanza e un'armatura leggera
-    - un'arma leggera da mischia, uno scudo e un'armatura media
-    - un'arma pesante da mischia, una pesante dalla distanza e un'armatura pesante
+    - una [magia](magic.md) a piacimento, un focus a scelta e un'[armatura](equipment.md) leggera
+    - un'[arma](equipment.md) leggera da mischia, una leggera da distanza e un'[armatura](equipment.md) leggera
+    - un'[arma](equipment.md) leggera da mischia, uno scudo e un'[armatura](equipment.md) media
+    - un'[arma](equipment.md) pesante da mischia e un'[armatura](equipment.md) pesante
