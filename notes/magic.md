@@ -2,6 +2,9 @@
 
 Un personaggio puo' conoscere zero o piu' magie, ripartite in **stregonerie**, **piromanzie** e **miracoli**.
 
+Avere una skill in una particolare tipologia di magie diminuisce di 1 la sfida richieste quando si utilizza quella
+categoria di magie.
+
 Ogni tipo di magia ha bisogno di un **focus** per essere lanciata, un oggetto magico che catalizza la forza
 sovrannaturale del personaggio in energia magica.
 
