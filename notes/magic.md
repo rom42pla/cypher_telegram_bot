@@ -19,6 +19,8 @@ Essendo le magie dei check, e' possibile dedurre in ogni momento l'edge corrispo
 
 ## Stregonerie
 
+![stregonerie](https://sm.ign.com/t/ign_it/screenshot/default/1480016099-ds3_pzxf.1280.jpg)
+
 Necessitano di un bastone, una bacchetta o simili come focus per essere lanciate.
 
 ### Supporto
@@ -38,7 +40,9 @@ Necessitano di un bastone, una bacchetta o simili come focus per essere lanciate
 | ![](https://darksouls3-italia.wiki.fextralife.com/file/Dark-Souls-3/deep_soul-icon.png) | Freccia dell'Anima Oscura | lanci una freccia magica oscura che infligge 4 o 1d6 danni Forza | distanza breve | un'azione | 1 punto Forza |
 | ![](https://darksouls3-italia.wiki.fextralife.com/file/Dark-Souls-3/homing_soulmass-icon.png) | Anime a ricerca | evochi per un minuto cinque anime intorno a te che colpiscono tutti i nemici che si avvicinano a distanza immediata per 1 danno Forza ciascuno | distanza immediata | un'azione | 2 punti Intelligenza
 
-## Piromanzia
+## Piromanzie
+
+![piromanzie](https://assets.rpgsite.net/images/images/000/052/630/original/DS3_DLC_Ringed17.jpg)
 
 Necessitano di una fiamma della piromanzia come focus per essere lanciati.
 
@@ -60,6 +64,8 @@ Necessitano di una fiamma della piromanzia come focus per essere lanciati.
 | ![](https://darksouls3-italia.wiki.fextralife.com/file/Dark-Souls-3/fire_storm-icon.png) | Tempesta di Fuoco | evochi dei pilastri di fuoco dalla terra che colpiscono tutto cio' a portata per 2 danni Forza a bersaglio | distanza immediata | un'azione | 2 punti Intelligenza
 
 ## Miracoli
+
+![miracoli](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ae4ce750-39ac-4b23-8722-25c58e30d33d/d6dpyy6-fc5b4255-34e6-47f4-910f-854d398d6eaf.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvYWU0Y2U3NTAtMzlhYy00YjIzLTg3MjItMjVjNThlMzBkMzNkXC9kNmRweXk2LWZjNWI0MjU1LTM0ZTYtNDdmNC05MTBmLTg1NGQzOThkNmVhZi5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.HZJtIRNi-PrrrzIWGAy36aMUgHMNiKysthpfV_DYd7w)
 
 Necessitano di un talismano, una campana da chierico o simili per essere lanciati.
 
