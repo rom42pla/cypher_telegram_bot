@@ -16,7 +16,7 @@
 ## Statistiche
 
 - distribuisci 34 punti fra le *pool*, avendo cura di avere almeno 7 punti in ognuna
-- assegna 1 *edge* ad una pool
+- assegna 1 *edge* ad una statistica
 - scegli 2 *skill* fra le seguenti:
     - armi leggere da mischia (coltelli, spade etc.)
     - armi pesanti da mischia (spadoni, randelli etc.)
