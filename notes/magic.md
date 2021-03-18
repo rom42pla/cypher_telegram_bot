@@ -1,18 +1,25 @@
 # Magia
+
 Un personaggio puo' conoscere zero o piu' magie, ripartite in **stregonerie**, **piromanzie** e **miracoli**.
 
-Ogni tipo di magia ha bisogno di un **focus** per essere lanciata, un oggetto magico che catalizza la forza sovrannaturale del personaggio in energia magica.
+Ogni tipo di magia ha bisogno di un **focus** per essere lanciata, un oggetto magico che catalizza la forza
+sovrannaturale del personaggio in energia magica.
 
-Una magia ha un **range** d'azione, che e' la distanza massima dalla quale puo' essere lanciata verso il bersaglio, se specificato diversamente: ad esempio, una magia con range a distanza breve puo' agire su bersagli a distanza breve ed immediata (vedi [info sulle distanza](combat.md)).
+Una magia ha un **range** d'azione, che e' la distanza massima dalla quale puo' essere lanciata verso il bersaglio, se
+specificato diversamente: ad esempio, una magia con range a distanza breve puo' agire su bersagli a distanza breve ed
+immediata (vedi [info sulle distanza](combat.md)).
 
-Magie piu' potenti richiedono **tempi** e costi maggiori per venir lanciate: magie che durano piu' di un'azione non possono quindi venir usate in combattimento.
+Magie piu' potenti richiedono **tempi** e costi maggiori per venir lanciate: magie che durano piu' di un'azione non
+possono quindi venir usate in combattimento.
 
-Un personaggio puo' **apprendere una nuova magia** spendendo in ogni momento 3XP e giustificando come e' riuscito ad impararla, che sia tramite settimane di studio in una biblioteca o tramite insegnamenti di un maestro.
+Un personaggio puo' **apprendere una nuova magia** spendendo in ogni momento 3XP e giustificando come e' riuscito ad
+impararla, che sia tramite settimane di studio in una biblioteca o tramite insegnamenti di un maestro.
 
 Essendo le magie dei check, e' possibile dedurre in ogni momento l'edge corrispondente dal **costo** in pool.
 
 ## Stregonerie
-Necessitano di una fiamma della piromanzia come focus per essere lanciati.
+
+Necessitano di un bastone, una bacchetta o simili come focus per essere lanciate.
 
 ### Supporto
 
@@ -20,18 +27,40 @@ Necessitano di una fiamma della piromanzia come focus per essere lanciati.
 | --- | --- | --- | --- | --- | --- |
 | ![](https://darksouls3-italia.wiki.fextralife.com/file/Dark-Souls-3/magic_weapon-icon.png) | Arma Magica | infonde un'arma con del potere magico, aggiungendo +1 danno Forza ad ogni attacco | distanza immediata | un'azione | 2 punti Intelligenza
 | ![](https://darksouls3-italia.wiki.fextralife.com/file/Dark-Souls-3/repair-icon.png) | Ripara | ripari un pezzo d'equipaggiamento rotto o usurato | distanza breve | un'azione | 2 punti Intelligenza |
-| ![](https://darksouls3-italia.wiki.fextralife.com/file/Dark-Souls-3/spook-icon.png) | Induci Terrore | rende silenziosi e piu' agili, aggiungendo un edge temporaneo in Destrezza a te o un alleato per un minuto | distanza breve | un'azione | 2 punti Intelligenza |
-| ![](https://darksouls3-italia.wiki.fextralife.com/file/Dark-Souls-3/aural_decoy-icon.png) | Esca Sonora | rende silenziosi e piu' agili, aggiungendo un edge temporaneo in Destrezza a te o un alleato per un minuto | distanza breve | un'azione | 2 punti Intelligenza |
+| ![](https://darksouls3-italia.wiki.fextralife.com/file/Dark-Souls-3/spook-icon.png) | Induci Terrore | rende silenziosi e piu' agili, aggiungendo un edge temporaneo in Destrezza a te o un alleato per un minuto | distanza breve | un'azione | 3 punti Intelligenza |
+| ![](https://darksouls3-italia.wiki.fextralife.com/file/Dark-Souls-3/aural_decoy-icon.png) | Esca Sonora | emette un rumore lontano per distrarre i nemici | distanza lunga | un'azione | 2 punti Intelligenza |
 
 ### D'attacco
 
 | icona | nome | effetto | range | tempo | costo |
 | --- | --- | --- | --- | --- | --- |
-| ![](https://darksouls3-italia.wiki.fextralife.com/file/Dark-Souls-3/soul_arrow-icon.png) | Freccia dell'Anima | lanci una freccia magica che infligge 3 danni Forza | distanza breve | un'azione | 2 punti Intelligenza |
-| ![](https://darksouls3-italia.wiki.fextralife.com/file/Dark-Souls-3/deep_soul-icon.png) | Freccia dell'Anima oscura | lanci una freccia magica oscura che infligge 3 danni Forza | distanza breve | un'azione | 2 punti Forza |
-| ![](https://darksouls3-italia.wiki.fextralife.com/file/Dark-Souls-3/homing_soulmass-icon.png) | Anime a ricerca | evochi tre anime intorno a te che colpiscono tutti i nemici che si avvicinano a distanza immediata per 1 danno Forza ciascuno | distanza immediata | un'azione | 3 punti Intelligenza
+| ![](https://darksouls3-italia.wiki.fextralife.com/file/Dark-Souls-3/soul_arrow-icon.png) | Freccia dell'Anima | lanci una freccia magica che infligge 4 o 1d6 danni Forza | distanza breve | un'azione | 1 punto Intelligenza |
+| ![](https://darksouls3-italia.wiki.fextralife.com/file/Dark-Souls-3/deep_soul-icon.png) | Freccia dell'Anima Oscura | lanci una freccia magica oscura che infligge 4 o 1d6 danni Forza | distanza breve | un'azione | 1 punto Forza |
+| ![](https://darksouls3-italia.wiki.fextralife.com/file/Dark-Souls-3/homing_soulmass-icon.png) | Anime a ricerca | evochi per un minuto cinque anime intorno a te che colpiscono tutti i nemici che si avvicinano a distanza immediata per 1 danno Forza ciascuno | distanza immediata | un'azione | 2 punti Intelligenza
+
+## Piromanzia
+
+Necessitano di una fiamma della piromanzia come focus per essere lanciati.
+
+### Supporto
+
+| icona | nome | effetto | range | tempo | costo |
+| --- | --- | --- | --- | --- | --- |
+| ![](https://darksouls3-italia.wiki.fextralife.com/file/Dark-Souls-3/carthus_flame_arc-icon.png) | Arma di Fuoco | infonde un'arma col potere del fuoco, aggiungendo +1 danno Forza ad ogni attacco | distanza immediata | un'azione | 2 punti Intelligenza
+| ![](https://darksouls3-italia.wiki.fextralife.com/file/Dark-Souls-3/rapport-icon.png) | Legame | per un round trasformi un nemico in alleato | distanza breve | un'azione | 5 punti Intelligenza |
+| ![](https://darksouls3-italia.wiki.fextralife.com/file/Dark-Souls-3/iron_flesh-icon.png) | Pelle Ferrea | rende te o un tuo alleato piu' resistente ai danni fisici per un minuto (-1 danni subiti in Forza) ma non permette al bersaglio di muoversi per l'intera durata | distanza breve | un'azione | 2 punti Intelligenza |
+| ![](https://darksouls3-italia.wiki.fextralife.com/file/Dark-Souls-3/power_within-icon.png) | Forza Interiore | aggiunge un edge temporaneo in Forza a te o un alleato per un minuto, ma il bersaglio perde 1 punto Forza | distanza immediata | un'azione | 2 punti Intelligenza |
+
+### D'attacco
+
+| icona | nome | effetto | range | tempo | costo |
+| --- | --- | --- | --- | --- | --- |
+| ![](https://darksouls3-italia.wiki.fextralife.com/file/Dark-Souls-3/great_combustion-icon.png) | Combustione | avvolge la mano con una fiamma enorme e potente che infligge 5 o 1d8 danni Forza | distanza immediata | un'azione | 1 punto Intelligenza |
+| ![](https://darksouls3-italia.wiki.fextralife.com/file/Dark-Souls-3/fireball-icon.png) | Palla di fuoco | lanci una palla di fuoco che infligge 4 o 1d6 danni Forza | distanza breve | un'azione | 1 punto Intelligenza |
+| ![](https://darksouls3-italia.wiki.fextralife.com/file/Dark-Souls-3/fire_storm-icon.png) | Tempesta di Fuoco | evochi dei pilastri di fuoco dalla terra che colpiscono tutto cio' a portata per 2 danni Forza a bersaglio | distanza immediata | un'azione | 2 punti Intelligenza
 
 ## Miracoli
+
 Necessitano di un talismano, una campana da chierico o simili per essere lanciati.
 
 ### Supporto
@@ -39,12 +68,12 @@ Necessitano di un talismano, una campana da chierico o simili per essere lanciat
 | icona | nome | effetto | range | tempo | costo |
 | --- | --- | --- | --- | --- | --- |
 | ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/lightning_blade-icon.png) | Arma del Fulmine | infonde un'arma col potere del fulmine, aggiungendo +1 danno Destrezza ad ogni attacco | distanza immediata | un'azione | 2 punti Intelligenza
-| ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/heal_aid-icon.png) | Palliativo | tu o un alleato recuperate 2 punti in una pool a tua scelta | distanza breve | un'azione | 3 punti Intelligenza |
+| ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/heal_aid-icon.png) | Palliativo | tu o un alleato recuperate 4 o 1d6 punti in una pool a scelta fra Forza e Destrezza | distanza breve | un'azione | 4 punti Intelligenza |
 
 ### D'attacco
 
 | icona | nome | effetto | range | tempo | costo |
 | --- | --- | --- | --- | --- | --- | 
-| ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/lightning_spear-icon.png) | Saetta | lanci una saetta che infligge 3 danni Destrezza | distanza breve | un'azione | 2 punti Intelligenza |
-| ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/divine_pillars_of_light-icon.png) | Pilastri di Luce | evochi dei pilastri di luce dalla terra che colpiscono tutto cio' a portata per 2 danni Destrezza a bersaglio | distanza immediata | un'azione | 3 punti Intelligenza
-| ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/wrath_of_the_gods-icon.png) | Ira degli Dei | la forza degli dei spinge i nemici a portata, facendoli cadere a terra | distanza immediata | un'azione | 2 punti Intelligenza
+| ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/lightning_spear-icon.png) | Saetta | lanci una saetta che infligge 4 o 1d6 danni Destrezza | distanza breve | un'azione | 1 punto Intelligenza |
+| ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/divine_pillars_of_light-icon.png) | Colonne di Luce | evochi dei pilastri di luce dalla terra che colpiscono tutto cio' a portata per 2 danni Destrezza a bersaglio | distanza immediata | un'azione | 2 punti Intelligenza
+| ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/wrath_of_the_gods-icon.png) | Ira degli Dei | la forza degli dei spinge chiunque a portata, facendoli cadere a terra | distanza immediata | un'azione | 2 punti Intelligenza
