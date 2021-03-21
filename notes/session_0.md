@@ -11,7 +11,7 @@ Voi giocatori, insieme a due vostri cari colleghi e amici *Oscar* e *Mike*, form
 Come ogni racconto che si rispetti, la vostra storia inizia nel tepore di una taverna, godendovi una buona birra di
 Catarina dal forte retrogusto di barile prima di uscire in ronda al rifugio.
 
-Il proprietario della taverna, *Thom*, e' famoso per il suo bollito di piccione e il suo rinomato bianco di drago,
+Il proprietario della **Taverna Tazze e Mazze**, *Thom*, e' famoso per il suo bollito di piccione e il suo rinomato bianco di drago,
 liquore potentissimo ma irreplicabile in quanto Thom e' molto geloso delle sue ricette e non le rivela mai a nessuno.
 Insieme ad egli sua figlia *Irina*, bellissima quanto imbranata cameriera, che conoscete sin da quando era piccina.
 

@@ -8,6 +8,7 @@
 - **McLoyf**, dio di Medicina e Bevute
 - **Faraam**, dio della Guerra
 - **Nito**, il Primo dei Morti
+- **Diana**, dea della Caccia
 
 # Astora
 
