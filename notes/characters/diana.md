@@ -11,7 +11,7 @@ nascosto condividendo con lei tutto ciò che avevo.
 
 All'età di 15 anni il sacerdote che io consideravo come un padre disse al suo amico **Igor** che lavorava come cavaliere
 della corona di prendermi sotto la sua ala per insegnarmi a usare aggressività e forza con saggezza e con tecniche di
-combattimento più avanzate cosicche' un giorno potessi arrivare a far parte del esercito del re sotto giuramento.
+combattimento più avanzate cosicché, un giorno, potessi arrivare a far parte del esercito del re sotto giuramento.
 
 Al età di 18 anni Igor incominciò a farmi sempre più pressioni per il giuramento che dovevo dare al mio sovrano ma io
 non condividevo questo suo ideale così ignoravo le sue prediche, finché un giorno presi la mia scelta: dissi a Igor che

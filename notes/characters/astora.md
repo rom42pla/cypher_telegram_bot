@@ -13,6 +13,19 @@ Membro anziano della guardia reale.
 
 Spesso viene incaricato di istruire le nuove reclute.
 
+## Igor
+
+Cavaliere reale di alto rango, maestro di [Diana](diana.md) in adolescenza ed amico di Padre Loria.
+
+Dopo aver fatto troppe pressioni nei suoi confronti al fine di farla divenire anch'ella guerriera reale, Diana decise di
+distaccarsi e divenire guerriera del sole.
+
+# Chiesa
+
+## Padre Loria
+
+Gestore dell'orfanatrofio di Astora dove alloggio' [Diana](diana.md) fino alla maggiore eta' ed amico di Igor.
+
 # Taverna Tazze e Mazze
 
 ## Thom
@@ -24,4 +37,4 @@ anni di curare.
 
 Figlia di Thom, bellissima quanto imbranata cameriera.
 
-È cresciuta insieme ad Alfons, col quale ha tuttora un buon rapporto.
+È cresciuta insieme ad [Alfons](alfons.md), col quale ha tuttora un buon rapporto.
