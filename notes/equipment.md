@@ -13,25 +13,25 @@ categoria di armi, ad esempio in combattimento.
 
 | icona | nome | tipo | danno |
 | --- | --- | --- | --- |
-| ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/dagger-icon.png) | Pugnale | leggera | 3 o 1d4 |
-| ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/caestus-icon.png) | Tirapugni | leggera | 3 o 1d4 |
-| ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/whip-icon.png) | Frusta | leggera | 3 o 1d4 |
-| ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/shortsword-icon.png) | Spada corta | leggera | 4 o 1d6 (a una mano) oppure 5 o 1d8 (a due mani) |
-| ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/spear-icon.png) | Lancia | leggera | 4 o 1d6 (a una mano) oppure 5 o 1d8 (a due mani) |
-| ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/hand_axe-icon.png) | Accetta | leggera | 4 o 1d6 (a una mano) oppure 5 o 1d8 (a due mani) |
-| ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/mace-icon.png) | Mazza | leggera | 4 o 1d6 (a una mano) oppure 5 o 1d8 (a due mani) |
-| ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/bastard_sword-icon.png) | Spadone | pesante | 6 o 1d10 |
-| ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/vordts_great_hammer-icon.png) | Mazza pesante | pesante | 6 o 1d10 |
-| ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/battle_axe-icon.png) | Ascia da battaglia | pesante | 6 o 1d10 |
-| ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/great_scythe-icon.png) | Falce | pesante | 6 o 1d10 |
+| ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/dagger-icon.png) | Pugnale | leggera | 4 o 2d4 + 2 * edge Destrezza |
+| ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/caestus-icon.png) | Tirapugni | leggera | 4 o 2d4 + 2 * edge Forza |
+| ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/whip-icon.png) | Frusta | leggera | 4 o 2d4 + 2 * edge Destrezza|
+| ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/shortsword-icon.png) | Spada corta | leggera | 6 o 2d6 (a una mano) oppure 8 o 2d8 (a due mani) + 2 * edge Destrezza o Forza|
+| ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/spear-icon.png) | Lancia | leggera | 6 o 2d6 (a una mano) oppure 8 o 2d8 (a due mani) + 2 * edge Destrezza o Forza|
+| ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/hand_axe-icon.png) | Accetta | leggera | 6 o 2d6 (a una mano) oppure 8 o 2d8 (a due mani) + 2 * edge Destrezza o Forza|
+| ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/mace-icon.png) | Mazza | leggera | 6 o 2d6 (a una mano) oppure 8 o 2d8 (a due mani) + 2 * edge Forza|
+| ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/bastard_sword-icon.png) | Spadone | pesante | 10 o 2d10 + 2 * edge Forza|
+| ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/vordts_great_hammer-icon.png) | Mazza pesante | pesante | 10 o 2d10 + 2 * edge Forza|
+| ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/battle_axe-icon.png) | Ascia da battaglia | pesante | 10 o 2d10 + 2 * edge Forza|
+| ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/great_scythe-icon.png) | Falce | pesante | 10 o 2d10 + 2 * edge Destrezza o Forza|
 
 ## Armi dalla distanza
 
 | icona | nome | tipo | danno |
 | --- | --- | --- | --- |
-| ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/light_crossbow-icon.png) | Balestra | leggera | 4 o 1d6 |
-| ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/longbow-icon.png) | Arco | pesante | 6 o 1d10 |
-| ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/heavy_crossbow-icon.png) | Balestra pesante | pesante | 6 o 1d10 |
+| ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/light_crossbow-icon.png) | Balestra | leggera | 8 o 2d6 |
+| ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/longbow-icon.png) | Arco | pesante | 10 o 2d10 |
+| ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/heavy_crossbow-icon.png) | Balestra pesante | pesante | 10 o 2d10 |
 
 # Scudi
 
