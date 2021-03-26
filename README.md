@@ -9,7 +9,7 @@
 ## Trama
 
 - [Mondo di gioco](notes/world.md)
-- [Sessione 0](notes/session_0.md)
+- [Sessione 0](notes/briefings.md)
 - Personaggi
     - Giocatori
         - [Alfons Call'urha](notes/characters/alfons.md)
