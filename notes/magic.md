@@ -41,7 +41,7 @@ Necessitano di un bastone, una bacchetta o simili come focus per essere lanciate
 | --- | --- | --- | --- | --- | --- |
 | ![](https://darksouls3-italia.wiki.fextralife.com/file/Dark-Souls-3/soul_arrow-icon.png) | Freccia dell'Anima | lanci una freccia magica che infligge 6 o 2d6 danni Forza | distanza breve | un'azione | 1 punto Intelligenza |
 | ![](https://darksouls3-italia.wiki.fextralife.com/file/Dark-Souls-3/deep_soul-icon.png) | Freccia dell'Anima Oscura | lanci una freccia magica oscura che infligge 6 o 2d6 danni Forza | distanza breve | un'azione | 1 punto Forza |
-| ![](https://darksouls3-italia.wiki.fextralife.com/file/Dark-Souls-3/homing_soulmass-icon.png) | Anime a ricerca | evochi per un minuto $n$ anime intorno a te, usando 1 punto Intelligenza per ciascuna per un massimo di 5 alla volta, che colpiscono tutti i nemici che si avvicinano a distanza immediata per 3 danni Forza ciascuno | distanza immediata | un'azione | $n$ punti Intelligenza
+| ![](https://darksouls3-italia.wiki.fextralife.com/file/Dark-Souls-3/homing_soulmass-icon.png) | Anime a ricerca | evochi per un minuto una o piu' anime intorno a te, usando 1 punto Intelligenza per ciascuna per un massimo di 5 alla volta, che colpiscono tutti i nemici che si avvicinano a distanza immediata per 3 danni Forza ciascuno | distanza immediata | un'azione | 1 punto Intelligenza per anima
 
 ## Piromanzie
 

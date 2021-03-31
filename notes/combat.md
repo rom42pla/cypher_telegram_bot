@@ -23,13 +23,15 @@ Quando un personaggio riceve un attacco ha piu' possibilita':
 | provare a schivare un attacco| livello dell'avversario | nessun danno ricevuto | danno in una pool congrua all'attacco subito|
 | provare a deviare un attacco e ricambiare | livello dell'avversario + 1 | nessun danno ricevuto e possibilita' di attaccare facendo un altro check | danno in una pool congrua all'attacco subito|
 
+Gli **scudi** diminuiscono di 1 il livello dei suddetti check.
+
 Indossando un'**armatura** si riduce il danno subito in base al tipo di protezione offerta:
 
 |armatura|riduzione del danno subito|
 |---|---|
-| leggera | -1 |
-| media | -2 |
-| pesante | -3 |
+| leggera | -2 |
+| media | -4 |
+| pesante | -6 |
 
 ### Effetti del danno
 

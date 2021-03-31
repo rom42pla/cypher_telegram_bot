@@ -48,6 +48,6 @@ di un personaggio.
 
 | esempio | tipo | bonus | malus |
 | --- | --- | --- | --- |
-| ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/assassin_set.jpg) | leggera | -1 danni subiti in Forza o Destrezza | nessuno |
-| ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/elite_knight_set.jpg) | media | -2 danni subiti in Forza o Destrezza | -1 edge in Destrezza quando indossata, fino a un minimo di 0 |
-| ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/havel's_set.jpg) | pesante | -3 danni subiti in Forza o Destrezza | -1 edge in Destrezza quando indossata, fino a un minimo di 0, impossibilita' di scattare e coprire distanze maggiori di immediata ogni turno |
+| ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/assassin_set.jpg) | leggera | -2 danni subiti in Forza o Destrezza | nessuno |
+| ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/elite_knight_set.jpg) | media | -4 danni subiti in Forza o Destrezza | -1 edge in Destrezza quando indossata, fino a un minimo di 0 |
+| ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/havel's_set.jpg) | pesante | -6 danni subiti in Forza o Destrezza | -1 edge in Destrezza quando indossata, fino a un minimo di 0, impossibilita' di scattare e coprire distanze maggiori di immediata ogni turno |
