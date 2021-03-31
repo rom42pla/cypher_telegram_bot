@@ -29,7 +29,7 @@ categoria di armi, ad esempio in combattimento.
 
 | icona | nome | tipo | danno |
 | --- | --- | --- | --- |
-| ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/light_crossbow-icon.png) | Balestra | leggera | 8 o 2d6 |
+| ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/light_crossbow-icon.png) | Balestra | leggera | 6 o 2d6 |
 | ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/longbow-icon.png) | Arco | pesante | 10 o 2d10 |
 | ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/heavy_crossbow-icon.png) | Balestra pesante | pesante | 10 o 2d10 |
 
