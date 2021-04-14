@@ -24,6 +24,7 @@ categoria di armi, ad esempio in combattimento.
 | ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/vordts_great_hammer-icon.png) | Mazza pesante | pesante | 10 o 2d10 + 2 * edge Forza|
 | ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/battle_axe-icon.png) | Ascia da battaglia | pesante | 10 o 2d10 + 2 * edge Forza|
 | ![](https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/great_scythe-icon.png) | Falce | pesante | 10 o 2d10 + 2 * edge Destrezza o Forza|
+| ![](https://darksouls.wiki.fextralife.com/file/Dark-Souls/demons_greataxe.png) | Ascia del demone | pesante | 12 o 3d8 + 2 * edge Forza|
 
 ## Armi dalla distanza
 
